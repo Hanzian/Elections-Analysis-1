@@ -180,7 +180,7 @@ with open(file_to_save, "w") as txt_file:
 
 #### Elections results
 
-
+![Elections Results on Terminal}(https://github.com/Hanzian/Elections-Analysis-1/blob/main/Screenshot%202022-10-28%20at%2011.20.54%20AM.png)
 
 ### Total votes
 
