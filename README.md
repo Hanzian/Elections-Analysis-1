@@ -209,3 +209,11 @@ Each candidate got the following score :
 ### The winner candidate
 
 after the analysis of election_result.csv, the candidate who won the most votes is **Diana DeGette** with **72,892 voters that is 73.8% of total votes**
+
+
+## Election-Audit Summary
+
+The analysis of this election showed us the performance of using Python because it took us less time and gave us correct results. 
+We can use the same code and revisit it as needed for other elections. We can even give the results of the votes and the percentage that each candidate got per county
+
+
